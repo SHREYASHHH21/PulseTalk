@@ -25,7 +25,7 @@ A lightweight, real-time chat application built using **Node.js**, **Express**, 
   - [Socket.IO Client](https://socket.io/docs/v4/client-api/)  
 
 - **Database (Optional)**:  
-  - MongoDB, Redis, or any other database for message persistence.
+  - MongoDB
 
 ---
 
@@ -33,7 +33,7 @@ A lightweight, real-time chat application built using **Node.js**, **Express**, 
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/SHREYASHHH21/PulseTalk.git
 cd <repo-name>
 ```
 
