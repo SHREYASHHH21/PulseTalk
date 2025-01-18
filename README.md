@@ -34,7 +34,7 @@ A lightweight, real-time chat application built using **Node.js**, **Express**, 
 ### **1. Clone the Repository**
 ```bash
 git clone https://github.com/SHREYASHHH21/PulseTalk.git
-cd <repo-name>
+cd PulseTalk
 ```
 
 ### **2. Install Dependencies**
